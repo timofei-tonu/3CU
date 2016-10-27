@@ -1,5 +1,5 @@
 # 3CU
-Organizational tool: categorizes files in folders, combines folder content, cleans up folder content.
+A small organizational tool: categorizes files in folders, combines folder content, cleans up folder content.
 
 To save you time and trouble, the software has been built in Python 3.5 , on Windows 32-bit machine. The distribution covers this combination.
 
@@ -16,3 +16,5 @@ The program interface includes the description of each of these functions, along
 Aditionally, a descriptional video will be available on Youtube shortly. Also, I plan to make an illustrated guide to using 3CU.
 
 PyQT has been used to develop the GUI part of the application, and PyInstaller has been used to build the executable.
+
+A small tool, because I haven't covered multithreading yet (planning to do so in the future). So the application may freeze when dealing with large quantities of data, but if it isn't prematurely closed, it generally gets the job done. 
