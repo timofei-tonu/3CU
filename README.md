@@ -1,7 +1,7 @@
 # 3CU
 A small organizational tool: categorizes files in folders, combines folder content, cleans up folder content.
 
-To save you time and trouble, the software has been built in Python 3.5 , on Windows 32-bit machine. The distribution covers this combination.
+The software has been built in Python 3.5 , on Windows 32-bit machine. The distribution covers this combination.
 
 Now, a surface description of 3CU.
 
